@@ -1,0 +1,22 @@
+title: "Prateek Shrivastava"
+description: "AI | Analytics | Supply Chain"
+baseurl: ""
+url: "https://prateekshrivastava.github.io"
+theme: null
+
+author:
+  name: "Prateek Shrivastava"
+  email: "prateek.ietdavv@gmail.com"
+  github: prateek0489
+  linkedin: pshrivastava1989
+  scholar: V62DoOgAAAAJ
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+
+collections:
+  pages:
+    output: true
+    permalink: /:name/
